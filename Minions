@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Website Seidi Westby</title>
+</head>
+<body style="background-color:yellow;">
+
+<h1 style="background-color:red;color:Black;text-align:center;font-size:500%;""">Welcome to my website</h1>
+
+<p style="background-color:yellow;font-size:300%;"">made in github </p>
+
+<h1 style="background-color:yellow;color:blue;"">Los Minions son pequeñas criaturas amarillas que han existido desde el principio de los tiempos, evolucionando de organismos unicelulares que existen solo para servir al villano más despreciable de la historia. </h1>
+
+<img src="https://estaticos-cdn.elperiodico.com/clip/21e169e9-2106-4063-9035-e84d4ff238d0_alta-libre-aspect-ratio_default_0.jpg" alt="Trulli" width="500" height="333">
+
+</body>
+</html>
+
